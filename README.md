@@ -7,6 +7,9 @@
 * Tri par insertion
 * Tri par sélection
 * Tri rapide
+* Tri fusion
+* Tri de Shell
+* Tri à peigne
 
 ## Algorithmes, encore :
 
